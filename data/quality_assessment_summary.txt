@@ -1,0 +1,31 @@
+Post-Wrangling Quality Assessment Summary
+==================================================
+
+Table Information:
+- deliveries: 929433 rows, 23 columns
+- innings: 8235 rows, 7 columns
+- matches: 4110 rows, 21 columns
+- overs: 148895 rows, 11 columns
+- players: 7059 rows, 4 columns
+
+Type Conversions Applied: 15
+
+Validation Results:
+- invalid_batter_runs: 0
+- seven_run_deliveries: {'count': 2, 'percentage': 0.00021518495685003653}
+- matches_exceeded_overs: 0
+- over_length_distribution: {1: 468, 2: 509, 3: 567, 4: 595, 5: 621, 6: 113078, 7: 25377, 8: 5580, 9: 1439, 10: 417, 11: 140, 12: 53, 13: 28, 14: 8, 15: 6, 16: 6, 17: 1, 19: 2}
+
+Player Consistency:
+- players_missing_ids: 15
+- players_with_multiple_ids: 52
+- synthetic_player_ids: 0
+
+Summary:
+- matches_count: 4110
+- players_count: 7059
+- innings_count: 8235
+- overs_count: 148895
+- deliveries_count: 929433
+- match_types: {'T20': 4110}
+- date_range: {'earliest': '2005-02-17', 'latest': '2025-04-26'}
