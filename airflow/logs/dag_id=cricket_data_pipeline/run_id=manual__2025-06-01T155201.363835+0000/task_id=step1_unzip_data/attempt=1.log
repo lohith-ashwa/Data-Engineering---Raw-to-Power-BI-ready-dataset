@@ -1,0 +1,15 @@
+[2025-06-01T17:52:04.767+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cricket_data_pipeline.step1_unzip_data manual__2025-06-01T15:52:01.363835+00:00 [queued]>
+[2025-06-01T17:52:04.772+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cricket_data_pipeline.step1_unzip_data manual__2025-06-01T15:52:01.363835+00:00 [queued]>
+[2025-06-01T17:52:04.773+0200] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-06-01T17:52:04.785+0200] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): step1_unzip_data> on 2025-06-01 15:52:01.363835+00:00
+[2025-06-01T17:52:04.789+0200] {standard_task_runner.py:57} INFO - Started process 26861 to run task
+[2025-06-01T17:52:04.791+0200] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'cricket_data_pipeline', 'step1_unzip_data', 'manual__2025-06-01T15:52:01.363835+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/cricket_pipeline_dag.py', '--cfg-path', '/tmp/tmpa5jcn09y']
+[2025-06-01T17:52:04.792+0200] {standard_task_runner.py:85} INFO - Job 21: Subtask step1_unzip_data
+[2025-06-01T17:52:04.826+0200] {task_command.py:416} INFO - Running <TaskInstance: cricket_data_pipeline.step1_unzip_data manual__2025-06-01T15:52:01.363835+00:00 [running]> on host Ashwa.
+[2025-06-01T17:52:04.875+0200] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lohit' AIRFLOW_CTX_DAG_ID='cricket_data_pipeline' AIRFLOW_CTX_TASK_ID='step1_unzip_data' AIRFLOW_CTX_EXECUTION_DATE='2025-06-01T15:52:01.363835+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-06-01T15:52:01.363835+00:00'
+[2025-06-01T17:52:05.127+0200] {logging_mixin.py:154} INFO - Extracting /home/lohit/airflow/data/all_json.zip to /home/lohit/airflow/data/extracted_data_json
+[2025-06-01T17:52:05.901+0200] {logging_mixin.py:154} INFO - Successfully extracted 4110 JSON files
+[2025-06-01T17:52:05.907+0200] {python.py:194} INFO - Done. Returned value was: Step 1 completed: Extraction completed: 4110 files extracted
+[2025-06-01T17:52:05.922+0200] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=cricket_data_pipeline, task_id=step1_unzip_data, execution_date=20250601T155201, start_date=20250601T155204, end_date=20250601T155205
+[2025-06-01T17:52:05.968+0200] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-06-01T17:52:05.978+0200] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,518 @@
+[2025-06-01T17:51:48.288+0200] {processor.py:157} INFO - Started process (PID=26819) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:51:48.289+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:51:48.289+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:51:48.289+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:51:48.298+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:51:48.318+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:51:48.318+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:51:48.328+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:51:48.328+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:51:48.346+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.061 seconds
+[2025-06-01T17:53:15.871+0200] {processor.py:157} INFO - Started process (PID=27111) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:53:15.874+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:53:15.875+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:53:15.875+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:53:15.879+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:53:15.891+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:53:15.890+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:53:15.897+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:53:15.897+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:53:15.913+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T17:53:50.421+0200] {processor.py:157} INFO - Started process (PID=27146) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:53:50.425+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:53:50.426+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:53:50.425+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:53:50.431+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:53:50.440+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:53:50.439+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:53:50.446+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:53:50.446+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:53:50.464+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T17:54:33.647+0200] {processor.py:157} INFO - Started process (PID=27214) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:54:33.648+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:54:33.649+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:54:33.649+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:54:33.654+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:54:33.665+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:54:33.664+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:54:33.672+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:54:33.672+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:54:33.690+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T17:55:05.619+0200] {processor.py:157} INFO - Started process (PID=27267) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:55:05.622+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:55:05.623+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:55:05.623+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:55:05.627+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:55:05.638+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:55:05.637+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:55:05.644+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:55:05.644+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:55:05.661+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T17:55:39.423+0200] {processor.py:157} INFO - Started process (PID=27322) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:55:39.426+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:55:39.427+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:55:39.427+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:55:39.431+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:55:39.440+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:55:39.440+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:55:39.446+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:55:39.446+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:55:39.462+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T17:56:10.813+0200] {processor.py:157} INFO - Started process (PID=27358) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:56:10.814+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:56:10.814+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:56:10.814+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:56:10.818+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:56:10.828+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:56:10.828+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:56:10.834+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:56:10.834+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:56:10.849+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.038 seconds
+[2025-06-01T17:56:42.036+0200] {processor.py:157} INFO - Started process (PID=27410) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:56:42.039+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:56:42.040+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:56:42.040+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:56:42.044+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:56:42.053+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:56:42.052+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:56:42.058+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:56:42.058+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:56:42.075+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T17:57:15.475+0200] {processor.py:157} INFO - Started process (PID=27466) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:57:15.478+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:57:15.479+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:57:15.478+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:57:15.483+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:57:15.492+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:57:15.492+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:57:15.498+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:57:15.498+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:57:15.514+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T17:57:59.098+0200] {processor.py:157} INFO - Started process (PID=27534) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:57:59.101+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:57:59.102+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:57:59.102+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:57:59.106+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:57:59.115+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:57:59.115+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:57:59.122+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:57:59.122+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:57:59.137+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T17:58:30.844+0200] {processor.py:157} INFO - Started process (PID=27565) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:58:30.847+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:58:30.848+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:58:30.848+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:58:30.852+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:58:30.863+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:58:30.863+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:58:30.869+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:58:30.869+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:58:30.885+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T17:59:04.044+0200] {processor.py:157} INFO - Started process (PID=27621) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:59:04.047+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:59:04.048+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:59:04.047+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:59:04.052+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:59:04.061+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:59:04.060+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:59:04.067+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:59:04.066+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:59:04.082+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T17:59:46.140+0200] {processor.py:157} INFO - Started process (PID=27687) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:59:46.142+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T17:59:46.143+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:59:46.142+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:59:46.147+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T17:59:46.157+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:59:46.157+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T17:59:46.163+0200] {logging_mixin.py:154} INFO - [2025-06-01T17:59:46.163+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T17:59:46.178+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.040 seconds
+[2025-06-01T18:00:18.797+0200] {processor.py:157} INFO - Started process (PID=27741) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:00:18.800+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:00:18.801+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:00:18.801+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:00:18.806+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:00:18.815+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:00:18.815+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:00:18.822+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:00:18.821+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:00:18.837+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:00:50.749+0200] {processor.py:157} INFO - Started process (PID=27776) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:00:50.752+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:00:50.753+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:00:50.753+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:00:50.757+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:00:50.766+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:00:50.766+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:00:50.772+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:00:50.772+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:00:50.787+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.040 seconds
+[2025-06-01T18:01:38.744+0200] {processor.py:157} INFO - Started process (PID=27877) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:01:38.748+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:01:38.748+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:01:38.748+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:01:38.752+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:01:38.762+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:01:38.762+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:01:38.768+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:01:38.768+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:01:38.782+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.040 seconds
+[2025-06-01T18:02:20.975+0200] {processor.py:157} INFO - Started process (PID=27945) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:02:20.976+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:02:20.977+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:02:20.976+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:02:20.981+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:02:20.991+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:02:20.991+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:02:20.997+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:02:20.997+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:02:21.016+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:02:52.127+0200] {processor.py:157} INFO - Started process (PID=28003) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:02:52.130+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:02:52.131+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:02:52.131+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:02:52.136+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:02:52.155+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:02:52.155+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:02:52.163+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:02:52.163+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:02:52.200+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.075 seconds
+[2025-06-01T18:03:23.836+0200] {processor.py:157} INFO - Started process (PID=28062) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:03:23.838+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:03:23.839+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:03:23.838+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:03:23.844+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:03:23.855+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:03:23.855+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:03:23.864+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:03:23.864+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:03:23.881+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.047 seconds
+[2025-06-01T18:03:56.290+0200] {processor.py:157} INFO - Started process (PID=28096) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:03:56.291+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:03:56.291+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:03:56.291+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:03:56.296+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:03:56.304+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:03:56.304+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:03:56.311+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:03:56.311+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:03:56.327+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.040 seconds
+[2025-06-01T18:04:40.982+0200] {processor.py:157} INFO - Started process (PID=28168) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:04:40.986+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:04:40.987+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:04:40.986+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:04:40.992+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:04:41.001+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:04:41.001+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:04:41.007+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:04:41.007+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:04:41.022+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.042 seconds
+[2025-06-01T18:05:14.172+0200] {processor.py:157} INFO - Started process (PID=28230) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:05:14.175+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:05:14.176+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:05:14.176+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:05:14.181+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:05:14.192+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:05:14.192+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:05:14.199+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:05:14.199+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:05:14.217+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.047 seconds
+[2025-06-01T18:05:50.142+0200] {processor.py:157} INFO - Started process (PID=28289) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:05:50.146+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:05:50.147+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:05:50.146+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:05:50.152+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:05:50.164+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:05:50.164+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:05:50.171+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:05:50.171+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:05:50.190+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.050 seconds
+[2025-06-01T18:06:22.185+0200] {processor.py:157} INFO - Started process (PID=28328) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:06:22.187+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:06:22.187+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:06:22.187+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:06:22.193+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:06:22.202+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:06:22.202+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:06:22.208+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:06:22.208+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:06:22.222+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.039 seconds
+[2025-06-01T18:07:05.910+0200] {processor.py:157} INFO - Started process (PID=28394) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:07:05.913+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:07:05.914+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:07:05.914+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:07:05.918+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:07:05.928+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:07:05.928+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:07:05.935+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:07:05.935+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:07:05.953+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T18:07:37.740+0200] {processor.py:157} INFO - Started process (PID=28448) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:07:37.743+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:07:37.744+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:07:37.743+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:07:37.748+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:07:37.758+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:07:37.758+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:07:37.764+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:07:37.764+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:07:37.780+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.042 seconds
+[2025-06-01T18:08:22.660+0200] {processor.py:157} INFO - Started process (PID=28518) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:08:22.662+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:08:22.662+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:08:22.662+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:08:22.667+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:08:22.677+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:08:22.677+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:08:22.687+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:08:22.687+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:08:22.703+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.047 seconds
+[2025-06-01T18:08:58.714+0200] {processor.py:157} INFO - Started process (PID=28578) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:08:58.718+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:08:58.718+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:08:58.718+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:08:58.723+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:08:58.733+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:08:58.732+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:08:58.739+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:08:58.739+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:08:58.756+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:09:29.308+0200] {processor.py:157} INFO - Started process (PID=28611) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:09:29.312+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:09:29.312+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:09:29.312+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:09:29.317+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:09:29.327+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:09:29.327+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:09:29.334+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:09:29.333+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:09:29.351+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:10:01.797+0200] {processor.py:157} INFO - Started process (PID=28674) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:10:01.800+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:10:01.801+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:10:01.801+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:10:01.806+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:10:01.816+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:10:01.816+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:10:01.825+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:10:01.825+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:10:01.844+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.050 seconds
+[2025-06-01T18:10:34.317+0200] {processor.py:157} INFO - Started process (PID=28732) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:10:34.321+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:10:34.322+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:10:34.321+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:10:34.327+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:10:34.339+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:10:34.339+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:10:34.347+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:10:34.347+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:10:34.367+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.052 seconds
+[2025-06-01T18:11:05.122+0200] {processor.py:157} INFO - Started process (PID=28766) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:11:05.126+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:11:05.126+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:11:05.126+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:11:05.131+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:11:05.141+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:11:05.141+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:11:05.149+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:11:05.149+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:11:05.165+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T18:11:37.292+0200] {processor.py:157} INFO - Started process (PID=28819) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:11:37.293+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:11:37.294+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:11:37.294+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:11:37.298+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:11:37.309+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:11:37.309+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:11:37.316+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:11:37.316+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:11:37.333+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:12:12.987+0200] {processor.py:157} INFO - Started process (PID=28877) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:12:12.988+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:12:12.989+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:12:12.988+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:12:12.994+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:12:13.004+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:12:13.004+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:12:13.012+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:12:13.012+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:12:13.029+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:12:45.807+0200] {processor.py:157} INFO - Started process (PID=28917) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:12:45.811+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:12:45.811+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:12:45.811+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:12:45.816+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:12:45.825+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:12:45.825+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:12:45.832+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:12:45.831+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:12:45.848+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:13:18.460+0200] {processor.py:157} INFO - Started process (PID=28972) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:13:18.462+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:13:18.462+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:13:18.462+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:13:18.467+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:13:18.475+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:13:18.475+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:13:18.481+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:13:18.481+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:13:18.497+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.039 seconds
+[2025-06-01T18:13:48.770+0200] {processor.py:157} INFO - Started process (PID=29025) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:13:48.770+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:13:48.771+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:13:48.770+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:13:48.775+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:13:48.785+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:13:48.785+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:13:48.793+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:13:48.793+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:13:48.808+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T18:14:30.300+0200] {processor.py:157} INFO - Started process (PID=29091) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:14:30.304+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:14:30.304+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:14:30.304+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:14:30.309+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:14:30.319+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:14:30.319+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:14:30.327+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:14:30.326+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:14:30.344+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.046 seconds
+[2025-06-01T18:15:01.549+0200] {processor.py:157} INFO - Started process (PID=29123) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:15:01.553+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:15:01.553+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:15:01.553+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:15:01.558+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:15:01.568+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:15:01.568+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:15:01.575+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:15:01.575+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:15:01.591+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:15:34.591+0200] {processor.py:157} INFO - Started process (PID=29178) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:15:34.594+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:15:34.595+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:15:34.594+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:15:34.600+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:15:34.610+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:15:34.610+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:15:34.617+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:15:34.617+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:15:34.634+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.046 seconds
+[2025-06-01T18:16:07.861+0200] {processor.py:157} INFO - Started process (PID=29233) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:16:07.862+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:16:07.863+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:16:07.863+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:16:07.868+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:16:07.878+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:16:07.878+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:16:07.885+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:16:07.885+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:16:07.900+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.042 seconds
+[2025-06-01T18:16:40.350+0200] {processor.py:157} INFO - Started process (PID=29268) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:16:40.353+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:16:40.353+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:16:40.353+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:16:40.358+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:16:40.367+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:16:40.367+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:16:40.373+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:16:40.373+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:16:40.389+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.042 seconds
+[2025-06-01T18:17:12.228+0200] {processor.py:157} INFO - Started process (PID=29324) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:17:12.232+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:17:12.233+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:17:12.232+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:17:12.238+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:17:12.250+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:17:12.250+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:17:12.257+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:17:12.257+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:17:12.274+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.047 seconds
+[2025-06-01T18:17:43.072+0200] {processor.py:157} INFO - Started process (PID=29379) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:17:43.075+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:17:43.075+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:17:43.075+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:17:43.082+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:17:43.093+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:17:43.093+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:17:43.100+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:17:43.100+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:17:43.118+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.049 seconds
+[2025-06-01T18:18:27.012+0200] {processor.py:157} INFO - Started process (PID=29445) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:18:27.015+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:18:27.016+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:18:27.015+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:18:27.020+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:18:27.031+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:18:27.031+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:18:27.038+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:18:27.038+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:18:27.295+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.285 seconds
+[2025-06-01T18:18:57.424+0200] {processor.py:157} INFO - Started process (PID=29477) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:18:57.427+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:18:57.428+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:18:57.428+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:18:57.434+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:18:57.445+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:18:57.444+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:18:57.452+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:18:57.452+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:18:57.470+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.047 seconds
+[2025-06-01T18:19:29.953+0200] {processor.py:157} INFO - Started process (PID=29531) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:19:29.956+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:19:29.957+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:19:29.956+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:19:29.961+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:19:29.972+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:19:29.971+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:19:29.979+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:19:29.979+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:19:29.996+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.047 seconds
+[2025-06-01T18:20:02.287+0200] {processor.py:157} INFO - Started process (PID=29586) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:20:02.291+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:20:02.292+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:20:02.291+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:20:02.297+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:20:02.307+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:20:02.307+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:20:02.314+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:20:02.314+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:20:02.331+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.046 seconds
+[2025-06-01T18:20:33.812+0200] {processor.py:157} INFO - Started process (PID=29617) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:20:33.813+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:20:33.813+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:20:33.813+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:20:33.818+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:20:33.827+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:20:33.827+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:20:33.833+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:20:33.833+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:20:33.849+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.039 seconds
+[2025-06-01T18:21:06.734+0200] {processor.py:157} INFO - Started process (PID=29674) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:21:06.736+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:21:06.736+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:21:06.736+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:21:06.741+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:21:06.751+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:21:06.751+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:21:06.757+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:21:06.757+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:21:06.774+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T18:21:38.546+0200] {processor.py:157} INFO - Started process (PID=29727) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:21:38.549+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:21:38.550+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:21:38.550+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:21:38.555+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:21:38.564+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:21:38.564+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:21:38.570+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:21:38.570+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:21:38.588+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:22:10.456+0200] {processor.py:157} INFO - Started process (PID=29761) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:22:10.457+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:22:10.458+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:22:10.457+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:22:10.463+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:22:10.475+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:22:10.474+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:22:10.482+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:22:10.482+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:22:10.499+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.046 seconds
+[2025-06-01T18:22:41.309+0200] {processor.py:157} INFO - Started process (PID=29813) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:22:41.312+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:22:41.313+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:22:41.313+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:22:41.317+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:22:41.328+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:22:41.327+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:22:41.334+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:22:41.334+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:22:41.349+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.042 seconds
+[2025-06-01T18:23:13.566+0200] {processor.py:157} INFO - Started process (PID=29867) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:23:13.569+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:23:13.570+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:23:13.570+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:23:13.574+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:23:13.586+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:23:13.586+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:23:13.594+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:23:13.594+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:23:13.609+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.046 seconds
+[2025-06-01T18:23:47.288+0200] {processor.py:157} INFO - Started process (PID=29902) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:23:47.292+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:23:47.292+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:23:47.292+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:23:47.297+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:23:47.309+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:23:47.309+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:23:47.316+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:23:47.316+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:23:47.336+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.050 seconds
+[2025-06-01T18:24:31.709+0200] {processor.py:157} INFO - Started process (PID=29970) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:24:31.711+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:24:31.711+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:24:31.711+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:24:31.717+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:24:31.726+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:24:31.726+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:24:31.734+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:24:31.734+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:24:31.751+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:25:04.297+0200] {processor.py:157} INFO - Started process (PID=30024) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:25:04.300+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:25:04.301+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:25:04.300+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:25:04.305+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:25:04.314+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:25:04.313+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:25:04.320+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:25:04.320+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:25:04.335+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.040 seconds
+[2025-06-01T18:25:36.803+0200] {processor.py:157} INFO - Started process (PID=30078) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:25:36.806+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:25:36.807+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:25:36.807+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:25:36.812+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:25:36.823+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:25:36.823+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:25:36.831+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:25:36.831+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:25:36.847+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.046 seconds
+[2025-06-01T18:26:07.187+0200] {processor.py:157} INFO - Started process (PID=30112) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:26:07.189+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:26:07.189+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:26:07.189+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:26:07.194+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:26:07.203+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:26:07.203+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:26:07.211+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:26:07.211+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:26:07.227+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.041 seconds
+[2025-06-01T18:26:37.572+0200] {processor.py:157} INFO - Started process (PID=30164) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:26:37.576+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:26:37.576+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:26:37.576+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:26:37.581+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:26:37.592+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:26:37.592+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:26:37.599+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:26:37.599+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:26:37.618+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.048 seconds
+[2025-06-01T18:27:10.088+0200] {processor.py:157} INFO - Started process (PID=30220) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:27:10.091+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:27:10.092+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:27:10.092+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:27:10.097+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:27:10.106+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:27:10.106+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:27:10.113+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:27:10.113+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:27:10.129+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:27:55.321+0200] {processor.py:157} INFO - Started process (PID=30287) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:27:55.325+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:27:55.325+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:27:55.325+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:27:55.330+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:27:55.341+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:27:55.341+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:27:55.348+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:27:55.348+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:27:55.368+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.048 seconds
+[2025-06-01T18:28:28.093+0200] {processor.py:157} INFO - Started process (PID=30321) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:28:28.096+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:28:28.097+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:28:28.096+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:28:28.101+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:28:28.110+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:28:28.110+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:28:28.116+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:28:28.116+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:28:28.130+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.040 seconds
+[2025-06-01T18:28:59.899+0200] {processor.py:157} INFO - Started process (PID=30376) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:28:59.902+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:28:59.903+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:28:59.903+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:28:59.907+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:28:59.917+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:28:59.917+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:28:59.923+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:28:59.923+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:28:59.939+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:29:44.410+0200] {processor.py:157} INFO - Started process (PID=30442) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:29:44.413+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:29:44.414+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:29:44.414+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:29:44.421+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:29:44.431+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:29:44.431+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:29:44.438+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:29:44.438+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:29:44.456+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.048 seconds
+[2025-06-01T18:30:15.354+0200] {processor.py:157} INFO - Started process (PID=30497) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:30:15.355+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:30:15.356+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:30:15.355+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:30:15.360+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:30:15.372+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:30:15.372+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:30:15.379+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:30:15.379+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:30:15.395+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:30:57.956+0200] {processor.py:157} INFO - Started process (PID=30543) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:30:57.957+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:30:57.958+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:30:57.957+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:30:57.962+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:30:57.972+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:30:57.972+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:30:57.980+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:30:57.980+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:30:57.998+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds
+[2025-06-01T18:31:28.208+0200] {processor.py:157} INFO - Started process (PID=30596) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:31:28.212+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:31:28.212+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:31:28.212+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:31:28.217+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:31:28.226+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:31:28.226+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:31:28.233+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:31:28.233+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:31:28.249+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:32:12.000+0200] {processor.py:157} INFO - Started process (PID=30664) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:32:12.004+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:32:12.005+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:32:12.004+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:32:12.010+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:32:12.020+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:32:12.020+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:32:12.027+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:32:12.027+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:32:12.044+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T18:32:43.520+0200] {processor.py:157} INFO - Started process (PID=30717) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:32:43.524+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:32:43.524+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:32:43.524+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:32:43.529+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:32:43.539+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:32:43.539+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:32:43.546+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:32:43.546+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:32:43.562+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:33:26.881+0200] {processor.py:157} INFO - Started process (PID=30784) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:33:26.882+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:33:26.882+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:33:26.882+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:33:26.887+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:33:26.898+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:33:26.898+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:33:26.904+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:33:26.904+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:33:26.921+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.043 seconds
+[2025-06-01T18:34:01.663+0200] {processor.py:157} INFO - Started process (PID=30819) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:34:01.664+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:34:01.665+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:34:01.665+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:34:01.669+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:34:01.681+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:34:01.681+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:34:01.688+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:34:01.688+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:34:01.705+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T18:34:34.146+0200] {processor.py:157} INFO - Started process (PID=31400) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:34:34.148+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:34:34.148+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:34:34.148+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:34:34.153+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:34:34.165+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:34:34.165+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:34:34.172+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:34:34.172+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:34:34.189+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.045 seconds
+[2025-06-01T18:35:19.777+0200] {processor.py:157} INFO - Started process (PID=31658) to work on /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:35:19.781+0200] {processor.py:829} INFO - Processing file /home/lohit/airflow/dags/cricket_pipeline_dag.py for tasks to queue
+[2025-06-01T18:35:19.781+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:35:19.781+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:35:19.786+0200] {processor.py:839} INFO - DAG(s) dict_keys(['cricket_data_pipeline']) retrieved from /home/lohit/airflow/dags/cricket_pipeline_dag.py
+[2025-06-01T18:35:19.796+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:35:19.795+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-01T18:35:19.803+0200] {logging_mixin.py:154} INFO - [2025-06-01T18:35:19.802+0200] {dag.py:3722} INFO - Setting next_dagrun for cricket_data_pipeline to None, run_after=None
+[2025-06-01T18:35:19.819+0200] {processor.py:179} INFO - Processing /home/lohit/airflow/dags/cricket_pipeline_dag.py took 0.044 seconds

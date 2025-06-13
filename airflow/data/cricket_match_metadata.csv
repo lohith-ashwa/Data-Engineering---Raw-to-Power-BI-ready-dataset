@@ -1,0 +1,501 @@
+match_id,match_type,teams,date,city,venue,has_innings_data,innings_count,total_deliveries
+1343743,T20,Botswana|Seychelles,2022-11-17,Kigali City,Integrated Polytechnic Regional Centre,True,1,96
+1044211,T20,Sri Lanka|Australia,2016-09-27,Colombo,Sinhalese Sports Club Ground,True,2,171
+1257184,T20,Zimbabwe|Pakistan,2021-04-23,Harare,Harare Sports Club,True,2,246
+1289043,T20,Kenya|Uganda,2021-11-17,Kigali City,Integrated Polytechnic Regional Centre,True,2,254
+1150533,T20,India|New Zealand,2018-11-09,Guyana,Providence Stadium,True,2,244
+1394777,T20,Thailand|Nepal,2023-09-08,Bangi,"UKM-YSD Cricket Oval, Bangi",True,2,244
+1436485,T20,Portugal|Israel,2024-06-13,Spinaceto,Roma Cricket Ground,True,2,249
+1207082,T20,Spain|Germany,2020-03-08,Almeria,Desert Springs Cricket Ground,True,2,248
+1284489,T20,Maldives|Saudi Arabia,2021-10-23,Doha,"West End Park International Cricket Stadium, Doha",True,2,221
+1318393,T20,Botswana|Rwanda,2022-06-15,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,231
+1425641,T20,Zimbabwe|Vanuatu,2024-04-25,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",True,2,191
+1400982,T20,Nigeria|Ghana,2023-10-10,Lagos,"Tafawa Balewa Square Cricket Oval, Lagos",True,2,218
+902649,T20,England|Pakistan,2015-11-26,,Dubai International Cricket Stadium,True,2,248
+1415736,T20,Ireland|Pakistan,2024-06-16,Lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",True,2,239
+1387245,T20,Guernsey|Germany,2023-08-15,Deventer,"Sportpark Het Schootsveld, Deventer",True,2,253
+1286976,T20,United Arab Emirates|Bhutan,2021-11-25,Dubai,"ICC Academy Ground No 2, Dubai",True,2,256
+1423470,T20,Uganda|Rwanda,2024-03-10,Accra,"Achimota Senior Secondary School B Field, Accra",True,2,254
+1422042,T20,Namibia|Netherlands,2024-03-03,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,1,90
+1418543,T20,China|Hong Kong,2024-02-16,Mong Kok,"Mission Road Ground, Mong Kok, Hong Kong",True,2,110
+1419918,T20,Singapore|Myanmar,2024-02-11,Bangi,"YSD-UKM Cricket Oval, Bangi",True,2,248
+1335790,T20,India|Malaysia,2022-10-03,Sylhet,"Sylhet International Cricket Stadium, Academy Ground",True,2,161
+1468725,T20,Nepal|Thailand,2025-02-01,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,245
+1432435,T20,Pakistan|Australia,2024-10-11,Dubai,Dubai International Cricket Stadium,True,2,191
+1394776,T20,United Arab Emirates|Hong Kong,2023-09-08,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,227
+1298143,T20,Sri Lanka|Netherlands,2022-10-20,Geelong,"GMHBA Stadium, South Geelong, Victoria",True,2,247
+1208613,T20,Nepal|Maldives,2019-12-09,Kirtipur,Tribhuvan University International Cricket Ground,True,2,220
+1286671,T20,Bahamas|Argentina,2021-11-08,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,244
+1334419,T20,West Indies|New Zealand,2022-10-06,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,243
+1338047,T20,Bangladesh|Australia,2023-02-14,Gqeberha,"St George's Park, Gqeberha",True,2,241
+1370787,T20,Finland|Denmark,2023-05-19,Brondby,"Svanholm Park, Brondby",True,2,209
+1415727,T20,Bangladesh|Netherlands,2024-06-13,Kingstown,"Arnos Vale Ground, Kingstown, St Vincent",True,2,244
+1343763,T20,Mali|Rwanda,2022-11-24,Kigali City,Integrated Polytechnic Regional Centre,True,2,97
+1208609,T20,Nepal|Maldives,2019-12-06,Kirtipur,Tribhuvan University International Cricket Ground,True,2,246
+1394931,T20,Cameroon|Sierra Leone,2023-09-08,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,195
+1435628,T20,Cameroon|Nigeria,2024-06-01,Kigali City,"Gahanga International Cricket Stadium, Rwanda",True,2,139
+1379582,T20,Rwanda|Kenya,2023-06-14,Nairobi,"Gymkhana Club Ground, Nairobi",True,2,209
+1147717,T20,Thailand|Ireland,2018-07-07,Utrecht,Sportpark Maarschalkerweerd,True,2,229
+523735,T20,Zimbabwe|Pakistan,2011-09-16,,Harare Sports Club,True,2,228
+1123207,T20,South Africa|India,2018-02-16,East London,Buffalo Park,True,2,242
+1459379,T20,Nigeria|Botswana,2024-11-28,Abuja,"Nigeria Cricket Federation Oval 2, Abuja",True,2,237
+1383090,T20,Vanuatu|Papua New Guinea,2023-07-22,Port Moresby,"Amini Park, Port Moresby",True,2,161
+1275122,T20,Tanzania|Eswatini,2021-09-14,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,238
+1474988,T20,United States of America|Brazil,2025-03-14,Buenos Aires,"St Albans Club, Buenos Aires",True,2,254
+1349382,T20,Bahrain|Qatar,2022-12-18,Bangi,"UKM-YSD Cricket Oval, Bangi",True,2,248
+1192876,T20,Sri Lanka|New Zealand,2019-09-03,Kandy,Pallekele International Cricket Stadium,True,2,242
+1322011,T20,Singapore|Papua New Guinea,2022-07-02,Singapore,"Indian Association Ground, Singapore",True,2,226
+1439902,T20,India|England,2025-01-31,Pune,"Maharashtra Cricket Association Stadium, Pune",True,2,246
+1426463,T20,Oman|Cambodia,2024-04-14,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),True,2,134
+1349391,T20,Malaysia|Bahrain,2022-12-23,Bangi,"UKM-YSD Cricket Oval, Bangi",True,2,250
+1034825,T20,India|England,2017-01-26,Kanpur,Green Park,True,2,241
+1233971,T20,New Zealand|Australia,2021-02-22,Christchurch,Hagley Oval,True,2,236
+1299583,T20,Philippines|Germany,2022-02-24,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),True,2,202
+884349,T20,South Africa|Australia,2016-03-06,Johannesburg,New Wanderers Stadium,True,2,254
+426393,T20,Australia|Pakistan,2010-07-06,Birmingham,Edgbaston,True,2,247
+1384600,T20,Malta|Switzerland,2023-07-16,Marsa,Marsa Sports Club,True,2,237
+683005,T20,India|West Indies,2014-04-01,,Sylhet Stadium,True,2,235
+1161231,T20,Australia|Pakistan,2018-10-25,Kuala Lumpur,Kinrara Academy Oval,True,2,252
+1147727,T20,United Arab Emirates|Bangladesh,2018-07-10,Utrecht,Sportpark Maarschalkerweerd,True,2,141
+1150542,T20,Australia|New Zealand,2018-11-13,Guyana,Providence Stadium,True,2,238
+798379,T20,England|Australia,2015-08-28,Hove,County Ground,True,2,240
+1306385,T20,Saudi Arabia|Kuwait,2022-03-20,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),True,2,118
+1286685,T20,Argentina|Canada,2021-11-13,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,169
+1443784,T20,Czech Republic|Greece,2024-08-27,Castel,"King George V Sports Ground, Castel",True,2,235
+1317903,T20,India|West Indies,2022-07-29,Tarouba,"Brian Lara Stadium, Tarouba, Trinidad",True,2,253
+1190751,T20,Netherlands|Ireland,2019-08-12,Deventer,Sportpark Het Schootsveld,True,2,149
+1346545,T20,Tanzania|Kenya,2022-12-19,Nairobi,"Gymkhana Club Ground, Nairobi",True,2,246
+1426086,T20,West Indies|Pakistan,2024-04-30,Karachi,"National Stadium, Karachi",True,2,252
+1185181,T20,Guernsey|Germany,2019-06-15,Castel,King George V Sports Ground,True,2,229
+1378014,T20,Germany|Italy,2023-06-01,St Saviour,"Grainville, St Saviour, Jersey",True,2,257
+1405316,T20,Hong Kong|Kuwait,2023-10-30,Kathmandu,Mulpani Cricket Ground,True,2,246
+1450204,T20,Norway|Luxembourg,2024-09-15,Koge,Koge Cricket Club 2,True,2,285
+1450828,T20,Oman|Canada,2024-10-03,King City,"Maple Leaf North-West Ground, King City",True,2,208
+1089243,T20,United Arab Emirates|Papua New Guinea,2017-04-14,Abu Dhabi,Sheikh Zayed Stadium,True,2,241
+533311,T20,England|New Zealand,2012-10-04,Colombo,R Premadasa Stadium,True,2,230
+1449011,T20,South Africa|Pakistan,2024-09-16,Multan,Multan Cricket Stadium,True,2,251
+1398280,T20,New Zealand|England,2024-07-13,London,"Kennington Oval, London",True,2,195
+690353,T20,Bangladesh|Sri Lanka,2014-02-14,Chittagong,Zahur Ahmed Chowdhury Stadium,True,2,245
+412695,T20,West Indies|India,2010-05-09,Barbados,"Kensington Oval, Bridgetown",True,2,260
+412693,T20,New Zealand|Pakistan,2010-05-08,Barbados,"Kensington Oval, Bridgetown",True,2,254
+356005,T20,Pakistan|Sri Lanka,2009-06-12,London,Lord's,True,2,254
+1332496,T20,Botswana|Uganda,2022-09-15,Benoni,"Willowmoore Park, Benoni",True,2,235
+1373570,T20,South Africa|Australia,2023-09-03,Durban,"Kingsmead, Durban",True,2,233
+1217741,T20,Thailand|Malaysia,2020-03-01,Bangkok,Terdthai Cricket Ground,True,2,194
+1412542,T20,Zimbabwe|Sri Lanka,2024-01-14,Colombo,"R Premadasa Stadium, Colombo",True,2,245
+1147736,T20,Bangladesh|Ireland,2018-07-14,Utrecht,Sportpark Maarschalkerweerd,True,2,247
+1476155,T20,Namibia|Hong Kong,2025-03-09,Entebbe,Entebbe Cricket Oval,True,2,248
+1426619,T20,New Zealand|Australia,2024-09-24,Brisbane,"Allan Border Field, Brisbane",True,2,247
+1298168,T20,Zimbabwe|Netherlands,2022-11-02,Adelaide,Adelaide Oval,True,2,236
+1272373,T20,Zimbabwe|Ireland,2021-08-27,Dublin,"Castle Avenue, Dublin",True,2,244
+1336080,T20,England|Sri Lanka,2023-08-31,Brighton,"County Ground, Hove",True,2,150
+251487,T20,New Zealand|Sri Lanka,2006-12-22,Wellington,Westpac Stadium,True,2,160
+1464730,T20,Singapore|Philippines,2024-12-24,Singapore,Singapore National Cricket Ground,True,2,273
+1319711,T20,India|Sri Lanka,2022-06-27,Dambulla,Rangiri Dambulla International Stadium,True,2,230
+623572,T20,Zimbabwe|Bangladesh,2013-05-12,Bulawayo,Queens Sports Club,True,2,252
+533312,T20,Australia|West Indies,2012-10-05,Colombo,R Premadasa Stadium,True,2,241
+1153698,T20,New Zealand|India,2019-02-10,Hamilton,Seddon Park,True,2,250
+1463653,T20,Saudi Arabia|Kuwait,2024-12-13,Dubai,"ICC Academy, Dubai",True,2,226
+287867,T20,South Africa|England,2007-09-16,Cape Town,Newlands,True,2,248
+1074964,T20,Netherlands|Scotland,2017-01-17,Abu Dhabi,Sheikh Zayed Stadium,True,2,246
+1440451,T20,Bhutan|Singapore,2024-07-08,Bali,Udayana Cricket Ground,True,2,261
+1336953,T20,Indonesia|Japan,2022-10-16,Sano,Sano International Cricket Ground,True,2,176
+1462896,T20,Panama|Brazil,2024-12-12,Buenos Aires,"Belgrano Athletic Club Ground, Buenos Aires",True,2,242
+1426768,T20,Bangladesh|India,2024-07-26,Dambulla,Rangiri Dambulla International Stadium,True,2,191
+1276914,T20,South Africa|England,2022-07-28,Cardiff,"Sophia Gardens, Cardiff",True,2,234
+682927,T20,Australia|Pakistan,2014-03-23,Mirpur,Shere Bangla National Stadium,True,2,245
+1398256,T20,Bangladesh|South Africa,2023-12-08,Kimberley,"Diamond Oval, Kimberley",True,2,224
+1310901,T20,New Zealand|Netherlands,2022-08-04,The Hague,"Sportpark Westvliet, The Hague",True,2,246
+1299568,T20,United Arab Emirates|Ireland,2022-02-18,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,248
+690351,T20,Bangladesh|Sri Lanka,2014-02-12,Chittagong,Zahur Ahmed Chowdhury Stadium,True,2,245
+1432429,T20,Scotland|West Indies,2024-10-06,Dubai,Dubai International Cricket Stadium,True,2,195
+1275129,T20,Zimbabwe|Uganda,2021-09-17,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,253
+1454384,T20,Malawi|Rwanda,2024-10-09,Blantyre,"TCA Oval, Blantyre",True,2,223
+1198490,T20,Pakistan|Sri Lanka,2019-10-07,Lahore,Gaddafi Stadium,True,2,246
+1286974,T20,Malaysia|Hong Kong,2021-11-25,Dubai,"ICC Academy Ground No 2, Dubai",True,2,240
+1321472,T20,Uganda|Papua New Guinea,2022-07-12,Bulawayo,Bulawayo Athletic Club,True,2,224
+1399150,T20,Bermuda|Canada,2023-09-30,Hamilton,"White Hill Field, Sandys Parish",True,2,232
+1321299,T20,Luxembourg|Slovenia,2022-07-30,Vantaa,Tikkurila Cricket Ground,True,2,249
+533282,T20,Ireland|West Indies,2012-09-24,Colombo,R Premadasa Stadium,True,1,117
+1310892,T20,Namibia|Uganda,2022-04-23,Windhoek,"Centre for Cricket Development Ground, Windhoek",True,2,177
+1320193,T20,Bahrain|Kuwait,2022-06-17,Kuala Lumpur,"Kinrara Academy Oval, Kuala Lumpur",True,1,49
+1462877,T20,Panama|Suriname,2024-12-06,Buenos Aires,"St Albans Club, Buenos Aires",True,2,191
+1370906,T20,United Arab Emirates|Namibia,2023-04-27,Windhoek,"United Cricket Club Ground, Windhoek",True,2,234
+640947,T20,Ireland|Pakistan,2013-07-29,Dublin,YMCA Cricket Club,True,2,208
+1334415,T20,West Indies|New Zealand,2022-09-28,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,245
+1415742,T20,West Indies|England,2024-06-19,Gros Islet,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",True,2,241
+1198217,T20,Singapore|Malaysia,2019-08-28,Singapore,Indian Association Ground,True,2,266
+1432428,T20,Pakistan|India,2024-10-06,Dubai,Dubai International Cricket Stadium,True,2,240
+1367729,T20,Portugal|Malta,2023-05-05,Gibraltar,Europa Sports Complex,True,2,257
+1184902,T20,Uganda|Kenya,2019-05-22,Kampala,Lugogo Cricket Oval,True,2,251
+1278673,T20,India|New Zealand,2021-11-21,Kolkata,"Eden Gardens, Kolkata",True,2,231
+1425128,T20,Bangladesh|Zimbabwe,2024-05-07,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",True,2,254
+1415721,T20,South Africa|Bangladesh,2024-06-10,New York,"Nassau County International Cricket Stadium, New York",True,2,249
+1459892,T20,India|West Indies,2024-12-17,Navi Mumbai,"Dr DY Patil Sports Academy, Navi Mumbai",True,2,223
+1481306,T20,Bermuda|Cayman Islands,2025-04-20,George Town,"Jimmy Powell Oval, Cayman Islands",True,2,245
+1349379,T20,Singapore|Qatar,2022-12-15,Bangi,"UKM-YSD Cricket Oval, Bangi",True,2,214
+635660,T20,Sri Lanka|South Africa,2013-08-06,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",True,2,237
+1394807,T20,Fiji|Papua New Guinea,2023-09-07,Port Vila,Vanuatu Cricket Ground (Oval 2),True,2,148
+875471,T20,Scotland|Netherlands,2015-07-11,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",True,2,247
+1289267,T20,Australia|Pakistan,2022-08-03,Birmingham,"Edgbaston, Birmingham",True,2,253
+1462913,T20,Nigeria|Rwanda,2024-12-13,Kigali City,"Gahanga International Cricket Stadium, Rwanda",True,2,247
+1426452,T20,Namibia|Oman,2024-04-04,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,192
+1187677,T20,New Zealand|India,2020-01-24,Auckland,Eden Park,True,2,249
+603246,T20,Sri Lanka|West Indies,2013-03-08,Colombo,R Premadasa Stadium,True,2,250
+1183524,T20,Australia|Sri Lanka,2019-10-27,Adelaide,Adelaide Oval,True,2,247
+1393591,T20,Hong Kong|Nepal,2023-08-22,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,221
+914219,T20,New Zealand|Sri Lanka,2016-01-10,Auckland,Eden Park,True,2,185
+1142506,T20,Scotland|Netherlands,2018-06-20,Amstelveen,VRA Ground,True,2,215
+1424763,T20,Tanzania|Namibia,2024-03-20,Accra,"Achimota Senior Secondary School B Field, Accra",True,2,204
+1335785,T20,Thailand|Bangladesh,2022-10-01,Sylhet,"Sylhet International Cricket Stadium, Academy Ground",True,2,192
+1444952,T20,Vanuatu|Cook Islands,2024-08-17,Apia,"Faleata Oval No 2, Apia",True,2,239
+1279385,T20,Cyprus|Estonia,2021-10-08,Episkopi,Happy Valley Ground,True,2,251
+1453913,T20,Maldives|Bhutan,2024-10-20,Gelephu,Gelephu International Cricket Ground,True,2,237
+1443576,T20,Australia|New Zealand,2025-03-26,Wellington,"Sky Stadium, Wellington",True,2,245
+1394766,T20,United Arab Emirates|Bahrain,2023-09-04,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,234
+1415711,T20,Pakistan|United States of America,2024-06-06,Dallas,"Grand Prairie Stadium, Dallas",True,4,270
+1251577,T20,South Africa|Pakistan,2021-04-14,Centurion,"SuperSport Park, Centurion",True,2,230
+1299570,T20,Canada|Oman,2022-02-19,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,231
+1343742,T20,Kenya|St Helena,2022-11-17,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,1,25
+743953,T20,England|New Zealand,2015-06-23,Manchester,Old Trafford,True,2,222
+1429631,T20,Botswana|Lesotho,2024-04-25,Gaborone,"Botswana Cricket Association Oval 2, Gaborone",True,2,277
+1462850,T20,Namibia|Thailand,2024-12-04,Mong Kok,"Mission Road Ground, Mong Kok, Hong Kong",True,2,242
+1454819,T20,Netherlands|Oman,2024-11-13,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,241
+1423474,T20,Zimbabwe|South Africa,2024-03-13,Accra,"Achimota Senior Secondary School A Field, Accra",True,4,255
+1343758,T20,Seychelles|Malawi,2022-11-22,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,1,33
+1407106,T20,Uganda|Kenya,2023-11-29,Windhoek,"Wanderers Cricket Ground, Windhoek",True,2,247
+1085495,T20,West Indies|Pakistan,2017-04-01,Trinidad,"Queen's Park Oval, Port of Spain",True,2,215
+1176795,T20,Papua New Guinea|Philippines,2019-03-23,Port Moresby,Amini Park,True,2,139
+1190606,T20,Germany|Netherlands,2019-06-27,Murcia,La Manga Club Top Ground,True,2,267
+1450821,T20,United Arab Emirates|United States of America,2024-10-04,Windhoek,"Wanderers Cricket Ground, Windhoek",True,2,245
+1283034,T20,Swaziland|Ghana,2021-10-20,Kigali City,Integrated Polytechnic Regional Centre,True,2,197
+1273740,T20,England|Sri Lanka,2021-11-01,Sharjah,Sharjah Cricket Stadium,True,2,240
+875521,T20,Ireland|Hong Kong,2015-07-17,Dublin,"The Village, Malahide",True,2,251
+1456863,T20,Mongolia|Hong Kong,2024-11-09,Hangzhou,Zhejiang University of Technology Cricket Field,True,2,90
+1310186,T20,Czech Republic|Hungary,2022-05-15,Marsa,Marsa Sports Club,True,2,253
+446956,T20,Australia|Sri Lanka,2010-10-31,Perth,Western Australia Cricket Association Ground,True,2,229
+533303,T20,New Zealand|South Africa,2012-09-28,,Galle International Stadium,True,2,248
+1385698,T20,Australia|England,2024-09-13,Cardiff,"Sophia Gardens, Cardiff",True,2,244
+1150551,T20,England|West Indies,2018-11-18,St Lucia,"Daren Sammy National Cricket Stadium, Gros Islet",True,2,242
+1438094,T20,Croatia|Gibraltar,2024-06-16,Prague,"Scott Page Field, Vinor",True,2,212
+1310890,T20,Zimbabwe|Uganda,2022-04-22,Windhoek,"Centre for Cricket Development Ground, Windhoek",True,2,252
+589307,T20,India|Pakistan,2012-12-28,Ahmedabad,"Sardar Patel Stadium, Motera",True,2,244
+423782,T20,New Zealand|Bangladesh,2010-02-03,Hamilton,Seddon Park,True,2,156
+1286683,T20,Belize|Bermuda,2021-11-13,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,164
+386494,T20,New Zealand|India,2009-02-25,Christchurch,AMI Stadium,True,2,242
+902651,T20,England|Pakistan,2015-11-27,,Dubai International Cricket Stadium,True,2,254
+1335800,T20,Thailand|Malaysia,2022-10-09,Sylhet,Sylhet International Cricket Stadium,True,2,244
+1440449,T20,Indonesia|Bhutan,2024-07-07,Bali,Udayana Cricket Ground,True,2,238
+754039,T20,New Zealand|Pakistan,2014-12-05,,Dubai International Cricket Stadium,True,2,243
+636166,T20,Australia|England,2014-02-02,Sydney,Stadium Australia,True,2,230
+660113,T20,Canada|Ireland,2013-11-16,Abu Dhabi,Sheikh Zayed Stadium,True,2,246
+951397,T20,Ireland|South Africa,2016-03-23,Chennai,"MA Chidambaram Stadium, Chepauk",True,2,247
+1468728,T20,Thailand|Nepal,2025-02-04,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,245
+533307,T20,South Africa|West Indies,2012-09-30,,Galle International Stadium,True,2,185
+1400041,T20,Namibia|United Arab Emirates,2023-10-03,Dubai,"ICC Academy, Dubai",True,2,241
+682961,T20,Sri Lanka|West Indies,2014-04-03,Mirpur,Shere Bangla National Stadium,True,2,208
+1344509,T20,Netherlands|Thailand,2022-12-02,Chiang Mai,Royal Chiangmai Golf Club,True,2,231
+1214765,T20,Oman|Germany,2020-02-07,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,272
+1384547,T20,Scotland|Netherlands,2023-07-12,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",True,2,255
+1418181,T20,Indonesia|Bhutan,2024-02-01,Bangkok,"Terdthai Cricket Ground, Bangkok",True,2,248
+1158355,T20,Sierra Leone|Malawi,2018-08-23,Gaborone,Botswana Cricket Association Oval 2,True,2,278
+1462899,T20,Bermuda|Belize,2024-12-12,Buenos Aires,"St George's College Ground, Buenos Aires",True,2,216
+1280060,T20,United Arab Emirates|Ireland,2021-10-07,Dubai,"ICC Academy, Dubai",True,2,240
+1265214,T20,Nigeria|Namibia,2021-06-06,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,187
+1138198,T20,West Indies|New Zealand,2018-03-25,Hamilton,Seddon Park,True,2,228
+1474429,T20,Vanuatu|Samoa,2025-03-14,Noumea,"N'Du Stadium, Noumea, New Caledonia",True,2,208
+1276906,T20,England|India,2022-07-10,Nottingham,"Trent Bridge, Nottingham",True,2,255
+1344788,T20,Saudi Arabia|Oman,2022-11-17,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,200
+1456860,T20,Mongolia|China,2024-11-07,Hangzhou,Zhejiang University of Technology Cricket Field,True,2,181
+1305499,T20,Malaysia|Papua New Guinea,2022-03-29,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,255
+1198489,T20,Pakistan|Sri Lanka,2019-10-05,Lahore,Gaddafi Stadium,True,2,231
+1306394,T20,Qatar|Saudi Arabia,2022-03-25,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,280
+1263160,T20,West Indies|Australia,2021-07-16,Gros Islet,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",True,2,262
+1336981,T20,Hong Kong|Japan,2022-10-29,Osaka,Kaizuka Cricket Ground,True,2,261
+1446766,T20,Netherlands|United States of America,2024-08-28,The Hague,"Sportpark Westvliet, The Hague",True,2,237
+1450758,T20,Cameroon|Tanzania,2024-09-24,Dar-es-Salaam,"Gymkhana Club Ground, Dar-es-Salaam",True,2,98
+1233466,T20,Zimbabwe|Pakistan,2020-11-10,,Rawalpindi Cricket Stadium,True,2,220
+1320980,T20,Belgium|Denmark,2022-07-01,Waterloo,"Royal Brussels Cricket Club Ground, Waterloo",True,2,250
+423787,T20,New Zealand|Australia,2010-02-26,Wellington,Westpac Stadium,True,2,222
+463142,T20,South Africa|Zimbabwe,2010-10-10,Kimberley,De Beers Diamond Oval,True,2,248
+1148055,T20,Malaysia|Thailand,2018-06-06,Kuala Lumpur,Royal Selangor Club,True,2,177
+1419933,T20,Kuwait|Nepal,2024-02-14,Bangi,"YSD-UKM Cricket Oval, Bangi",True,2,169
+1399062,T20,India|Sri Lanka,2023-09-25,Hangzhou,Zhejiang University of Technology Cricket Field,True,2,243
+1349140,T20,Uganda|Rwanda,2022-12-23,Kigali City,"Gahanga International Cricket Stadium, Rwanda",True,2,250
+1335806,T20,India|Thailand,2022-10-13,Sylhet,Sylhet International Cricket Stadium,True,2,252
+1274600,T20,France|Germany,2021-08-27,Murcia,La Manga Club Bottom Ground,True,2,172
+1289271,T20,India|England,2022-08-06,Birmingham,"Edgbaston, Birmingham",True,2,244
+1272900,T20,Thailand|Zimbabwe,2021-08-27,Harare,"Takashinga Sports Club, Highfield, Harare",True,2,245
+1426626,T20,Australia|England,2025-01-20,Sydney,Sydney Cricket Ground,True,2,224
+1185317,T20,South Africa|Australia,2020-02-23,Port Elizabeth,St George's Park,True,2,245
+1138195,T20,New Zealand|West Indies,2018-03-16,Mount Maunganui,Bay Oval,True,2,248
+1306395,T20,Kuwait|Bahrain,2022-03-25,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),True,2,253
+1383089,T20,Japan|Philippines,2023-07-22,Port Moresby,"Amini Park, Port Moresby",True,2,247
+1275104,T20,Mozambique|Rwanda,2021-09-09,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,71
+527012,T20,Zimbabwe|New Zealand,2011-10-15,,Harare Sports Club,True,2,210
+1273144,T20,Ghana|Rwanda,2021-08-20,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,169
+1462855,T20,Hong Kong|Namibia,2024-12-07,Mong Kok,"Mission Road Ground, Mong Kok, Hong Kong",True,2,252
+1298154,T20,Ireland|England,2022-10-26,Melbourne,Melbourne Cricket Ground,True,2,217
+1182914,T20,Japan|Papua New Guinea,2019-05-09,Port Vila,"Ground 1, Independence Park",True,2,158
+1172915,T20,Kuwait|United Arab Emirates,2019-02-19,Bangkok,Asian Institute of Technology Ground,True,2,235
+1229207,T20,Germany|Austria,2020-08-14,Lower Austria,Seebarn Cricket Centre,True,2,279
+356007,T20,South Africa|West Indies,2009-06-13,London,Kennington Oval,True,2,245
+592269,T20,Canada|Kenya,2013-03-16,Dubai,ICC Global Cricket Academy,True,2,240
+1373569,T20,South Africa|Australia,2023-09-01,Durban,"Kingsmead, Durban",True,2,215
+1453917,T20,Thailand|Indonesia,2024-10-23,Gelephu,Gelephu International Cricket Ground,True,2,249
+1445485,T20,Denmark|Norway,2024-08-11,Oslo,"Ekeberg Cricket Ground 1, Oslo",True,2,302
+875491,T20,Nepal|Ireland,2015-07-13,Belfast,"Civil Service Cricket Club, Stormont",True,2,141
+298804,T20,South Africa|West Indies,2008-01-18,Johannesburg,New Wanderers Stadium,True,2,244
+1394917,T20,Kenya|Botswana,2023-09-02,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,259
+1399152,T20,Panama|Bermuda,2023-10-01,Hamilton,"White Hill Field, Sandys Parish",True,2,212
+1384594,T20,France|Switzerland,2023-07-14,Marsa,Marsa Sports Club,True,2,255
+1444960,T20,Vanuatu|Fiji,2024-08-23,Apia,"Faleata Oval No 2, Apia",True,2,254
+1433364,T20,South Africa|West Indies,2024-05-26,Kingston,"Sabina Park, Kingston, Jamaica",True,2,211
+1144990,T20,Australia|India,2018-11-21,Brisbane,"Brisbane Cricket Ground, Woolloongabba",True,2,218
+1199530,T20,Ireland|Jersey,2019-10-25,Abu Dhabi,Tolerance Oval,True,2,206
+798615,T20,Ireland|Australia,2015-08-19,Dublin,YMCA Cricket Club,True,2,255
+1274604,T20,France|Ireland,2021-08-29,Murcia,La Manga Club Bottom Ground,True,2,132
+1273725,T20,West Indies|England,2021-10-23,Dubai,Dubai International Cricket Stadium,True,2,140
+1449021,T20,Zimbabwe|Namibia,2024-09-08,Windhoek,"Wanderers Cricket Ground, Windhoek",True,2,256
+1148056,T20,India|Bangladesh,2018-06-06,Kuala Lumpur,Kinrara Academy Oval,True,2,242
+1271450,T20,Norway|Germany,2021-08-08,Krefeld,Bayer Uerdingen Cricket Ground,True,2,248
+1429625,T20,Mozambique|Botswana,2024-04-22,Gaborone,"Botswana Cricket Association Oval 2, Gaborone",True,2,239
+1394919,T20,Mozambique|Eswatini,2023-09-02,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,223
+1199536,T20,Kenya|Papua New Guinea,2019-10-27,Dubai,Dubai International Cricket Stadium,True,2,242
+1157761,T20,West Indies|India,2018-11-11,Chennai,"MA Chidambaram Stadium, Chepauk",True,2,256
+1439822,T20,Norway|Germany,2024-07-11,Krefeld,Bayer Uerdingen Cricket Ground,True,2,244
+1370914,T20,Uganda|Namibia,2023-05-02,Windhoek,"United Cricket Club Ground, Windhoek",True,2,246
+668969,T20,Sri Lanka|New Zealand,2013-11-21,,Pallekele International Cricket Stadium,True,2,228
+1459891,T20,India|West Indies,2024-12-15,Navi Mumbai,"Dr DY Patil Sports Academy, Navi Mumbai",True,2,249
+1327233,T20,Pakistan|England,2022-09-30,Lahore,"Gaddafi Stadium, Lahore",True,2,211
+1144173,T20,South Africa|Sri Lanka,2019-03-22,Centurion,SuperSport Park,True,2,248
+1443772,T20,Malta|Guernsey,2024-08-22,Castel,"King George V Sports Ground, Castel",True,2,209
+1457233,T20,Bahrain|Cambodia,2024-11-26,Doha,University of Doha for Science and Technology,True,2,220
+1384588,T20,France|Malta,2023-07-12,Marsa,Marsa Sports Club,True,2,239
+567354,T20,South Africa|New Zealand,2012-12-23,East London,Buffalo Park,True,2,235
+1334416,T20,West Indies|New Zealand,2022-10-01,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,250
+1393317,T20,Uganda|Tanzania,2023-08-28,Kigali City,"Gahanga International Cricket Stadium, Rwanda",True,2,240
+1449304,T20,India|South Africa,2024-11-15,Johannesburg,"The Wanderers Stadium, Johannesburg",True,2,249
+1394802,T20,Fiji|Japan,2023-09-04,Port Vila,Vanuatu Cricket Ground (Oval 2),True,2,219
+1384550,T20,Scotland|Netherlands,2023-07-15,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",True,2,224
+1450200,T20,Austria|Denmark,2024-09-14,Koge,Koge Cricket Club,True,2,270
+1187720,T20,New Zealand|South Africa,2020-02-10,Wellington,Basin Reserve,True,2,229
+1440443,T20,Indonesia|Bhutan,2024-07-02,Bali,Udayana Cricket Ground,True,2,221
+1451293,T20,Greece|Spain,2024-09-22,Corfu,"Marina Ground, Corfu",True,2,236
+1173056,T20,India|New Zealand,2020-02-27,Melbourne,Junction Oval,True,2,244
+659545,T20,Zimbabwe|Pakistan,2013-08-23,,Harare Sports Club,True,2,253
+1275115,T20,Uganda|Nigeria,2021-09-11,Gaborone,"Botswana Cricket Association Oval 2, Gaborone",True,2,222
+1275128,T20,Botswana|Tanzania,2021-09-16,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,190
+1447495,T20,Myanmar|Singapore,2024-09-09,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,139
+907385,T20,South Africa|England,2016-02-21,Johannesburg,New Wanderers Stadium,True,2,215
+1383109,T20,Myanmar|China,2023-07-31,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,242
+1383108,T20,Bhutan|Thailand,2023-07-31,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,188
+1435618,T20,Rwanda|Cameroon,2024-05-30,Kigali City,"Gahanga International Cricket Stadium, Rwanda",True,2,208
+1243020,T20,Pakistan|South Africa,2021-02-13,Lahore,Gaddafi Stadium,True,2,225
+1423373,T20,Oman|Papua New Guinea,2024-03-07,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,239
+1192877,T20,Sri Lanka|New Zealand,2019-09-06,Kandy,Pallekele International Cricket Stadium,True,2,225
+1283023,T20,Seychelles|Ghana,2021-10-16,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,185
+1476163,T20,Uganda|Namibia,2025-03-14,Entebbe,Entebbe Cricket Oval,True,2,220
+1202252,T20,West Indies|India,2019-11-09,Gros Islet,"Darren Sammy National Cricket Stadium, St Lucia",True,2,247
+1133819,T20,Sri Lanka|Bangladesh,2018-03-10,Colombo,"R.Premadasa Stadium, Khettarama",True,2,252
+1197064,T20,Namibia|United States of America,2019-09-07,Arbroath,Lochlands,True,2,254
+1399145,T20,Maldives|Saudi Arabia,2023-10-02,Doha,"West End Park International Cricket Stadium, Doha",True,2,164
+1422038,T20,Netherlands|Nepal,2024-02-28,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,251
+1426049,T20,Zimbabwe|Papua New Guinea,2024-03-31,Harare,Harare Sports Club,True,4,268
+1394794,T20,Papua New Guinea|Vanuatu,2023-09-01,Port Vila,Vanuatu Cricket Ground,True,2,240
+1339558,T20,Spain|Sweden,2022-11-14,Almeria,"Desert Springs Cricket Ground, Almeria",True,2,265
+1287773,T20,Pakistan|West Indies,2021-12-13,Karachi,"National Stadium, Karachi",True,2,244
+1452624,T20,Serbia|Gibraltar,2024-09-30,Gibraltar,Europa Sports Complex,True,2,210
+1314898,T20,Nepal|Uganda,2022-05-17,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,253
+1335796,T20,Thailand|United Arab Emirates,2022-10-07,Sylhet,Sylhet International Cricket Stadium,True,2,248
+1120095,T20,India|New Zealand,2017-11-07,Thiruvananthapuram,Greenfield International Stadium,True,2,99
+412680,T20,Bangladesh|Pakistan,2010-05-01,St Lucia,"Beausejour Stadium, Gros Islet",True,2,245
+1339606,T20,West Indies|South Africa,2023-03-28,Johannesburg,"The Wanderers Stadium, Johannesburg",True,2,258
+1230856,T20,England|West Indies,2020-09-23,Derby,County Ground,True,2,247
+1464722,T20,Gibraltar|Jersey,2024-12-15,Gibraltar,Europa Sports Complex,True,2,194
+1453518,T20,Nepal|United States of America,2024-10-17,Dallas,"Grand Prairie Stadium, Dallas",True,2,248
+1394774,T20,Kuwait|Myanmar,2023-09-06,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,258
+1478412,T20,Portugal|Norway,2025-04-08,Albergaria,Santarem Cricket Ground,True,2,285
+1317639,T20,Pakistan|Australia,2022-07-23,Bready,"Bready Cricket Club, Magheramason, Bready",True,2,153
+1267322,T20,West Indies|Pakistan,2021-06-30,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,248
+543883,T20,Kenya|Ireland,2012-02-22,,Mombasa Sports Club Ground,True,2,220
+1275275,T20,Romania|Malta,2021-09-04,Ilfov County,"Moara Vlasiei Cricket Ground, Ilfov County",True,2,263
+1407714,T20,Cambodia|Indonesia,2023-11-20,Bali,Udayana Cricket Ground,True,2,236
+1327507,T20,India|South Africa,2022-10-02,Guwahati,"Barsapara Cricket Stadium, Guwahati",True,2,258
+1273143,T20,Rwanda|Ghana,2021-08-20,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,232
+1459718,T20,Costa Rica|Mexico,2024-11-16,Naucalpan,"Reforma Athletic Club, Naucalpan",True,2,232
+1405318,T20,Bahrain|Hong Kong,2023-10-31,Kathmandu,Mulpani Cricket Ground,True,2,250
+538068,T20,Bangladesh|Pakistan,2011-11-29,Mirpur,Shere Bangla National Stadium,True,2,251
+1446774,T20,Hong Kong|Kuwait,2024-08-24,Kuala Lumpur,"Selangor Turf Club, Kuala Lumpur",True,2,242
+1411265,T20,Kenya|Tanzania,2023-12-11,Entebbe,Entebbe Cricket Oval,True,2,88
+683015,T20,Australia|England,2014-04-06,Mirpur,Shere Bangla National Stadium,True,2,218
+1321474,T20,Papua New Guinea|Hong Kong,2022-07-14,Bulawayo,Bulawayo Athletic Club,True,2,249
+1438092,T20,Croatia|Gibraltar,2024-06-15,Prague,"Scott Page Field, Vinor",True,2,290
+569239,T20,New Zealand|England,2013-02-15,Wellington,Westpac Stadium,True,2,197
+1408103,T20,Ireland|Zimbabwe,2023-12-07,Harare,Harare Sports Club,True,2,244
+648681,T20,South Africa|Australia,2014-03-12,Durban,Kingsmead,True,2,88
+1271446,T20,Norway|France,2021-08-05,Krefeld,Bayer Uerdingen Cricket Ground,True,2,250
+1450774,T20,Japan|Philippines,2024-10-02,Incheon,"Yeonhui Cricket Ground, Incheon",True,2,245
+1126721,T20,England|South Africa,2018-06-20,Taunton,The Cooper Associates County Ground,True,2,242
+1462907,T20,Panama|Mexico,2024-12-15,Buenos Aires,"Hurlingham Club Ground, Buenos Aires",True,2,217
+1273716,T20,Scotland|Papua New Guinea,2021-10-19,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,243
+1453931,T20,Rwanda|Mozambique,2024-10-23,Nairobi,"Gymkhana Club Ground, Nairobi",True,2,220
+1327506,T20,South Africa|India,2022-09-28,Thiruvananthapuram,"Greenfield International Stadium, Thiruvananthapuram",True,2,229
+1140069,T20,Pakistan|West Indies,2018-04-01,Karachi,National Stadium,True,2,209
+1267324,T20,Pakistan|West Indies,2021-07-04,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,246
+1321477,T20,Uganda|Jersey,2022-07-15,Bulawayo,"Queens Sports Club, Bulawayo",True,2,245
+742617,T20,New Zealand|Pakistan,2014-12-04,,Dubai International Cricket Stadium,True,2,242
+1184263,T20,Botswana|Nigeria,2019-05-21,Kampala,Lugogo Cricket Oval,True,2,246
+1462886,T20,Suriname|Brazil,2024-12-08,Buenos Aires,"St Albans Club, Buenos Aires",True,2,241
+1345096,T20,Pakistan|Australia,2023-01-26,Hobart,"Bellerive Oval, Hobart",True,2,203
+1153859,T20,New Zealand|India,2019-02-08,Auckland,Eden Park,True,2,242
+1439829,T20,Belgium|Serbia,2024-07-12,Krefeld,Bayer Uerdingen Cricket Ground,True,2,189
+1286677,T20,Bermuda|Bahamas,2021-11-10,Coolidge,"Coolidge Cricket Ground, Antigua",True,2,252
+1367722,T20,Portugal|Gibraltar,2023-04-10,Albergaria,Santarem Cricket Ground,True,2,230
+1428743,T20,Mexico|Costa Rica,2024-04-12,Guacima,Los Reyes Polo Club,True,2,235
+1348325,T20,Ireland|Zimbabwe,2023-01-15,Harare,Harare Sports Club,True,2,242
+1349131,T20,Rwanda|Tanzania,2022-12-16,Kigali City,"Gahanga International Cricket Stadium, Rwanda",True,2,186
+1450765,T20,Tanzania|Malawi,2024-09-26,Dar-es-Salaam,"Gymkhana Club Ground, Dar-es-Salaam",True,2,247
+951405,T20,Australia|Ireland,2016-03-26,Delhi,Feroz Shah Kotla,True,2,206
+1395012,T20,Brazil|Argentina,2023-09-07,Los Angeles,"Woodley Cricket Field, Los Angeles",True,2,213
+1318377,T20,Tanzania|Botswana,2022-06-10,Kigali City,Integrated Polytechnic Regional Centre,True,2,227
+401076,T20,West Indies|Bangladesh,2009-08-02,St Kitts,"Warner Park, Basseterre",True,2,230
+1370790,T20,Finland|Norway,2023-05-20,Copenhagen,"Solvangs Park, Glostrup",True,2,183
+1400984,T20,Ghana|Nigeria,2023-10-11,Lagos,"Tafawa Balewa Square Cricket Oval, Lagos",True,2,240
+1199506,T20,Kenya|Scotland,2019-10-19,Dubai,ICC Academy Ground No 2,True,2,248
+1407867,T20,Nepal|Hong Kong,2023-11-16,Wong Nai Chung Gap,Hong Kong Cricket Club,True,2,165
+1376121,T20,Nepal|Malaysia,2023-05-29,Bangi,"YSD-UKM Cricket Oval, Bangi",True,2,198
+1463666,T20,Oman|Kuwait,2024-12-20,Dubai,"ICC Academy, Dubai",True,2,244
+249227,T20,Australia|England,2007-01-09,,Sydney Cricket Ground,True,2,249
+1425653,T20,United States of America|Thailand,2024-05-01,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",True,2,175
+1446764,T20,Canada|Netherlands,2024-08-26,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",True,2,252
+1435635,T20,Kenya|Uganda,2024-06-04,Kigali City,"Gahanga B Ground, Rwanda",True,2,202
+1199504,T20,Jersey|Nigeria,2019-10-19,Abu Dhabi,Sheikh Zayed Stadium,True,2,251
+1449027,T20,Namibia|Zimbabwe,2024-09-14,Windhoek,"Wanderers Cricket Ground, Windhoek",True,2,249
+1442988,T20,Sri Lanka|India,2024-07-28,Kandy,Pallekele International Cricket Stadium,True,2,168
+1459382,T20,Ivory Coast|Botswana,2024-11-26,Abuja,"Nigeria Cricket Federation Oval 2, Abuja",True,2,85
+478279,T20,Pakistan|South Africa,2010-10-26,Abu Dhabi,Sheikh Zayed Stadium,True,2,239
+1430812,T20,Ireland|Sri Lanka,2024-08-11,Dublin,"Pembroke Cricket Club, Sandymount, Dublin",True,2,228
+1419912,T20,Bahrain|Qatar,2024-02-10,Kuala Lumpur,"Royal Selangor Club, Kuala Lumpur",True,2,179
+1339618,T20,Pakistan|New Zealand,2023-04-24,Rawalpindi,Rawalpindi Cricket Stadium,True,2,247
+1361775,T20,Malaysia|Hong Kong,2023-03-11,Mong Kok,"Mission Road Ground, Mong Kok, Hong Kong",True,2,239
+1383095,T20,Papua New Guinea|Vanuatu,2023-07-26,Port Moresby,"Amini Park, Port Moresby",True,2,249
+1320982,T20,Belgium|Portugal,2022-07-02,Waterloo,"Royal Brussels Cricket Club Ground, Waterloo",True,2,218
+361660,T20,Pakistan|Sri Lanka,2008-10-13,King City,Maple Leaf North-West Ground,True,2,251
+1438078,T20,Estonia|Cyprus,2024-06-18,Episkopi,Happy Valley Ground,True,2,243
+1197247,T20,China|Hong Kong,2019-09-19,Incheon,Yeonhui Cricket Ground,True,2,249
+1283094,T20,Nigeria|Sierra Leone,2021-10-26,Lagos,University of Lagos Cricket Oval,True,2,262
+1126724,T20,South Africa|New Zealand,2018-06-28,Bristol,County Ground,True,2,224
+1336979,T20,Japan|Hong Kong,2022-10-27,Osaka,Kaizuka Cricket Ground,True,2,223
+1426454,T20,Namibia|Oman,2024-04-07,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,245
+1274606,T20,France|Scotland,2021-08-30,Murcia,La Manga Club Bottom Ground,True,2,126
+1318358,T20,Sweden|Germany,2022-06-09,Krefeld,Bayer Uerdingen Cricket Ground,True,2,231
+1321276,T20,Isle of Man|Turkey,2022-07-18,Kerava,Kerava National Cricket Ground,True,2,246
+1298174,T20,Netherlands|South Africa,2022-11-06,Adelaide,Adelaide Oval,True,2,248
+1450776,T20,Indonesia|Philippines,2024-10-04,Incheon,"Yeonhui Cricket Ground, Incheon",True,2,253
+1371605,T20,Bangladesh|Sri Lanka,2023-05-11,Colombo,"Sinhalese Sports Club Ground, Colombo",True,2,232
+1310181,T20,Bulgaria|Romania,2022-05-13,Marsa,Marsa Sports Club,True,2,219
+1383068,T20,Austria|Jersey,2023-07-20,Edinburgh,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",True,2,183
+1275044,T20,Kenya|Uganda,2021-09-10,Entebbe,Entebbe Cricket Oval,True,2,244
+1426832,T20,Ireland|Pakistan,2024-05-14,Dublin,"Castle Avenue, Dublin",True,2,234
+1383091,T20,Japan|Vanuatu,2023-07-23,Port Moresby,"Amini Park, Port Moresby",True,2,250
+1447496,T20,Mongolia|Malaysia,2024-09-09,Bangi,"YSD-UKM Cricket Oval, Bangi",True,2,122
+693437,T20,England|South Africa,2014-09-07,Birmingham,Edgbaston,True,2,246
+930573,T20,United Arab Emirates|Oman,2015-11-22,Abu Dhabi,Sheikh Zayed Stadium,True,2,233
+1320196,T20,Qatar|Malaysia,2022-06-18,Bangi,"UKM-YSD Cricket Oval, Bangi",True,2,207
+1187019,T20,India|West Indies,2019-12-08,Thiruvananthapuram,Greenfield International Stadium,True,2,247
+1344508,T20,Thailand|Netherlands,2022-11-30,Chiang Mai,Royal Chiangmai Golf Club,True,2,254
+661695,T20,New Zealand|West Indies,2014-01-11,Auckland,Eden Park,True,2,249
+1462880,T20,Mexico|Brazil,2024-12-07,Buenos Aires,"Hurlingham Club Ground, Buenos Aires",True,2,216
+1379580,T20,Botswana|Kenya,2023-06-11,Nairobi,"Gymkhana Club Ground, Nairobi",True,2,189
+1172911,T20,Kuwait|Malaysia,2019-02-18,Bangkok,Asian Institute of Technology Ground,True,2,260
+1439821,T20,Jersey|Belgium,2024-07-10,Krefeld,Bayer Uerdingen Cricket Ground,True,2,250
+565811,T20,India|England,2012-12-22,Mumbai,Wankhede Stadium,True,2,249
+1419911,T20,Japan|Oman,2024-02-10,Bangi,"YSD-UKM Cricket Oval, Bangi",True,2,273
+1468724,T20,Netherlands|Nepal,2025-01-30,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,255
+1298140,T20,Sri Lanka|United Arab Emirates,2022-10-18,Geelong,"GMHBA Stadium, South Geelong, Victoria",True,2,227
+1462906,T20,Bermuda|Bahamas,2024-12-15,Buenos Aires,"Belgrano Athletic Club Ground, Buenos Aires",True,2,248
+1187006,T20,India|South Africa,2019-09-22,Bengaluru,M.Chinnaswamy Stadium,True,2,231
+1450764,T20,Lesotho|Cameroon,2024-09-26,Dar-es-Salaam,University of Dar-es-Salaam Ground,True,2,122
+1339208,T20,Germany|Spain,2022-11-05,Almeria,"Desert Springs Cricket Ground, Almeria",True,2,241
+1407092,T20,Nigeria|Kenya,2023-11-23,Windhoek,"United Cricket Club Ground, Windhoek",True,2,246
+1279386,T20,Estonia|Isle of Man,2021-10-08,Episkopi,Happy Valley Ground,True,2,160
+1415718,T20,West Indies|Uganda,2024-06-08,Providence,"Providence Stadium, Guyana",True,2,201
+1274595,T20,Netherlands|Scotland,2021-08-26,Murcia,La Manga Club Top Ground,True,2,227
+1400037,T20,United Arab Emirates|Namibia,2023-09-27,Dubai,Dubai International Cricket Stadium,True,2,237
+1378017,T20,France|Jersey,2023-06-01,St Clement,"FB Fields, St Clement",True,2,260
+718467,T20,Bangladesh|Ireland,2014-04-03,,Sylhet Stadium,True,2,247
+659547,T20,Zimbabwe|Pakistan,2013-08-24,,Harare Sports Club,True,2,249
+1273721,T20,Oman|Scotland,2021-10-21,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),True,2,228
+1119502,T20,India|Australia,2017-10-10,Guwahati,Barsapara Cricket Stadium,True,2,220
+1329250,T20,United States of America|United Arab Emirates,2022-09-13,Dubai,"ICC Academy, Dubai",True,2,253
+1471822,T20,Bahrain|Indonesia,2025-02-19,Bali,Udayana Cricket Ground,True,2,241
+1429628,T20,Mozambique|Botswana,2024-04-23,Gaborone,"Botswana Cricket Association Oval 1, Gaborone",True,2,213
+1451294,T20,Greece|Spain,2024-09-22,Corfu,"Marina Ground, Corfu",True,2,229
+914221,T20,New Zealand|Pakistan,2016-01-15,Auckland,Eden Park,True,2,246
+1387947,T20,Greece|Romania,2023-08-05,Ilfov County,"Moara Vlasiei Cricket Ground, Ilfov County",True,2,246
+531982,T20,Bangladesh|West Indies,2011-10-11,Mirpur,Shere Bangla National Stadium,True,2,248
+1273750,T20,South Africa|England,2021-11-06,Sharjah,Sharjah Cricket Stadium,True,2,247
+1426468,T20,Kuwait|Bahrain,2024-04-15,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),True,2,186
+1383070,T20,Scotland|Germany,2023-07-20,Edinburgh,"Goldenacre, Edinburgh",True,2,198
+1426760,T20,India|United Arab Emirates,2024-07-21,Dambulla,Rangiri Dambulla International Stadium,True,2,250
+1150539,T20,Bangladesh|England,2018-11-12,St Lucia,"Daren Sammy National Cricket Stadium, Gros Islet",True,2,180
+966735,T20,Hong Kong|Oman,2016-02-19,Fatullah,Khan Shaheb Osman Ali Stadium,True,2,241
+1450757,T20,Ghana|Lesotho,2024-09-24,Dar-es-Salaam,University of Dar-es-Salaam Ground,True,2,260
+1450767,T20,Japan|Philippines,2024-09-26,Incheon,"Yeonhui Cricket Ground, Incheon",True,2,175
+1422811,T20,Malaysia|Bahrain,2024-03-07,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,225
+1349387,T20,Malaysia|Qatar,2022-12-21,Bangi,"UKM-YSD Cricket Oval, Bangi",True,1,47
+1199548,T20,Ireland|Namibia,2019-11-02,Dubai,Dubai International Cricket Stadium,True,2,228
+1263572,T20,England|Australia,2022-01-20,Adelaide,Adelaide Oval,True,2,232
+1407107,T20,Zimbabwe|Kenya,2023-11-30,Windhoek,"United Cricket Club Ground, Windhoek",True,2,250
+1453924,T20,Rwanda|Seychelles,2024-10-24,Nairobi,"Ruaraka Sports Club Ground, Nairobi",True,2,254
+1443785,T20,Malta|Estonia,2024-08-27,Port  Soif,"Guernsey Rovers Athletic Club Ground, Port Soif",True,2,255
+1173066,T20,Pakistan|Thailand,2020-03-03,Sydney,Sydney Showground Stadium,True,1,125
+1279380,T20,Estonia|Cyprus,2021-10-05,Episkopi,Happy Valley Ground,True,2,220
+1447497,T20,Hong Kong|Kuwait,2024-09-09,Bangi,"YSD-UKM Cricket Oval, Bangi",True,2,150
+1443543,T20,New Zealand|Sri Lanka,2024-12-28,Mount Maunganui,"Bay Oval, Mount Maunganui",True,2,250
+1273416,T20,South Africa|West Indies,2021-09-02,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",True,2,245
+1339209,T20,Spain|Germany,2022-11-06,Almeria,"Desert Springs Cricket Ground, Almeria",True,2,252
+1321281,T20,Austria|Luxembourg,2022-07-24,Vantaa,Tikkurila Cricket Ground,True,2,225
+1007657,T20,Zimbabwe|India,2016-06-20,,Harare Sports Club,True,2,207
+1273752,T20,Pakistan|Scotland,2021-11-07,Sharjah,Sharjah Cricket Stadium,True,2,257
+962023,T20,Ireland|Bangladesh,2016-09-05,Londonderry,"Bready Cricket Club, Magheramason",True,2,122
+951385,T20,Australia|South Africa,2016-03-18,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",True,2,233
+1177484,T20,United Arab Emirates|United States of America,2019-03-15,Dubai,ICC Academy,True,2,115
+1407718,T20,Indonesia|Cambodia,2023-11-22,Bali,Udayana Cricket Ground,True,2,243
+1296032,T20,Scotland|Kenya,2022-01-22,Kuala Lumpur,"Kinrara Academy Oval, Kuala Lumpur",True,2,100
+1391337,T20,Romania|Malta,2023-08-20,Ilfov County,"Moara Vlasiei Cricket Ground, Ilfov County",True,2,260
+1303307,T20,Ireland|India,2022-06-26,Dublin,"The Village, Malahide, Dublin",True,2,139
+533297,T20,Australia|West Indies,2012-10-05,Colombo,R Premadasa Stadium,True,2,226
+1272094,T20,Bangladesh|New Zealand,2021-09-03,Dhaka,"Shere Bangla National Stadium, Mirpur",True,2,245
+1133823,T20,Bangladesh|India,2018-03-18,Colombo,"R.Premadasa Stadium, Khettarama",True,2,246
+1436473,T20,France|Isle of Man,2024-06-09,Spinaceto,Roma Cricket Ground,True,2,254
+1183546,T20,England|India,2020-02-07,Melbourne,Junction Oval,True,2,236
+1415717,T20,Australia|England,2024-06-08,Bridgetown,"Kensington Oval, Bridgetown, Barbados",True,2,251
+1306389,T20,Bahrain|Saudi Arabia,2022-03-22,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),True,2,292
+1257951,T20,Nepal|Netherlands,2021-04-24,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",True,2,239
+1400987,T20,Nigeria|Sierra Leone,2023-10-12,Lagos,"Tafawa Balewa Square Cricket Oval, Lagos",True,2,220
+1089202,T20,United Arab Emirates|Papua New Guinea,2017-04-12,Abu Dhabi,Sheikh Zayed Stadium,True,2,206
+1158073,T20,West Indies|England,2019-03-10,Basseterre,"Warner Park, St Kitts",True,2,143
+1142501,T20,Netherlands|Ireland,2018-06-12,Rotterdam,Hazelaarweg,True,2,250
+439505,T20,Ireland|Scotland,2010-02-11,,Dubai International Cricket Stadium,True,2,236
+1450827,T20,Nepal|Oman,2024-10-02,King City,"Maple Leaf North-West Ground, King City",True,2,238
+1419936,T20,United Arab Emirates|Malaysia,2024-02-18,Kuala Lumpur,"Bayuemas Oval, Kuala Lumpur",True,2,249
+1215136,T20,Malaysia|Hong Kong,2020-02-20,Kuala Lumpur,Kinrara Academy Oval,True,2,157
+1229205,T20,Germany|Austria,2020-08-13,Lower Austria,Seebarn Cricket Centre,True,2,228
+1439895,T20,India|Bangladesh,2024-10-12,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",True,2,253
+1432436,T20,Sri Lanka|New Zealand,2024-10-12,Sharjah,Sharjah Cricket Stadium,True,2,234
+1367733,T20,Malta|Portugal,2023-05-06,Gibraltar,Europa Sports Complex,True,2,230
+1450819,T20,United States of America|Namibia,2024-10-01,Windhoek,"Wanderers Cricket Ground, Windhoek",True,2,249
+1418176,T20,Myanmar|Cambodia,2024-01-27,Bangkok,"Terdthai Cricket Ground, Bangkok",True,2,186
+1321277,T20,Serbia|Croatia,2022-07-19,Vantaa,Tikkurila Cricket Ground,True,2,240
+1399142,T20,Maldives|Qatar,2023-10-01,Doha,"West End Park International Cricket Stadium, Doha",True,2,190
+1208347,T20,England|Pakistan,2019-12-17,Kuala Lumpur,Kinrara Academy Oval,True,2,237
+1173060,T20,Bangladesh|New Zealand,2020-02-29,Melbourne,Junction Oval,True,2,237
+1283045,T20,Sierra Leone|Tanzania,2021-11-03,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,199
+1343750,T20,Rwanda|Kenya,2022-11-20,Kigali City,Gahanga International Cricket Stadium. Rwanda,True,2,198
+1321290,T20,Switzerland|Estonia,2022-07-27,Kerava,Kerava National Cricket Ground,True,2,252
+523736,T20,Zimbabwe|Pakistan,2011-09-18,,Harare Sports Club,True,2,247
+1273147,T20,Sweden|Finland,2021-08-21,Kerava,Kerava National Cricket Ground,True,2,244
+1282745,T20,Germany|Jersey,2021-10-19,Almeria,"Desert Springs Cricket Ground, Almeria",True,2,228
+287855,T20,Pakistan|Scotland,2007-09-12,Durban,Kingsmead,True,2,249

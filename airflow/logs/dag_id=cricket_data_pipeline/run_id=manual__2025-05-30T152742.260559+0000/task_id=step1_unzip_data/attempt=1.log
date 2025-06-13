@@ -1,0 +1,13 @@
+[2025-05-30T17:27:44.954+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cricket_data_pipeline.step1_unzip_data manual__2025-05-30T15:27:42.260559+00:00 [queued]>
+[2025-05-30T17:27:44.959+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cricket_data_pipeline.step1_unzip_data manual__2025-05-30T15:27:42.260559+00:00 [queued]>
+[2025-05-30T17:27:44.959+0200] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-05-30T17:27:44.972+0200] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): step1_unzip_data> on 2025-05-30 15:27:42.260559+00:00
+[2025-05-30T17:27:44.976+0200] {standard_task_runner.py:57} INFO - Started process 10467 to run task
+[2025-05-30T17:27:44.979+0200] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'cricket_data_pipeline', 'step1_unzip_data', 'manual__2025-05-30T15:27:42.260559+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/cricket_pipeline_dag.py', '--cfg-path', '/tmp/tmplcl2huhj']
+[2025-05-30T17:27:44.980+0200] {standard_task_runner.py:85} INFO - Job 8: Subtask step1_unzip_data
+[2025-05-30T17:27:45.018+0200] {task_command.py:416} INFO - Running <TaskInstance: cricket_data_pipeline.step1_unzip_data manual__2025-05-30T15:27:42.260559+00:00 [running]> on host Ashwa.
+[2025-05-30T17:27:45.061+0200] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lohit' AIRFLOW_CTX_DAG_ID='cricket_data_pipeline' AIRFLOW_CTX_TASK_ID='step1_unzip_data' AIRFLOW_CTX_EXECUTION_DATE='2025-05-30T15:27:42.260559+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-30T15:27:42.260559+00:00'
+[2025-05-30T17:27:45.137+0200] {python.py:194} INFO - Done. Returned value was: Step 1 completed successfully
+[2025-05-30T17:27:45.381+0200] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=cricket_data_pipeline, task_id=step1_unzip_data, execution_date=20250530T152742, start_date=20250530T152744, end_date=20250530T152745
+[2025-05-30T17:27:45.428+0200] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-05-30T17:27:45.442+0200] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

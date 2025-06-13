@@ -1,0 +1,41 @@
+[2025-05-30T18:31:11.904+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cricket_data_pipeline.step2_quality_check_pre manual__2025-05-30T16:30:58.276321+00:00 [queued]>
+[2025-05-30T18:31:11.909+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cricket_data_pipeline.step2_quality_check_pre manual__2025-05-30T16:30:58.276321+00:00 [queued]>
+[2025-05-30T18:31:11.909+0200] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-05-30T18:31:11.921+0200] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): step2_quality_check_pre> on 2025-05-30 16:30:58.276321+00:00
+[2025-05-30T18:31:11.924+0200] {standard_task_runner.py:57} INFO - Started process 14911 to run task
+[2025-05-30T18:31:11.926+0200] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'cricket_data_pipeline', 'step2_quality_check_pre', 'manual__2025-05-30T16:30:58.276321+00:00', '--job-id', '18', '--raw', '--subdir', 'DAGS_FOLDER/cricket_pipeline_dag.py', '--cfg-path', '/tmp/tmpk09007p6']
+[2025-05-30T18:31:11.927+0200] {standard_task_runner.py:85} INFO - Job 18: Subtask step2_quality_check_pre
+[2025-05-30T18:31:11.958+0200] {task_command.py:416} INFO - Running <TaskInstance: cricket_data_pipeline.step2_quality_check_pre manual__2025-05-30T16:30:58.276321+00:00 [running]> on host Ashwa.
+[2025-05-30T18:31:12.026+0200] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lohit' AIRFLOW_CTX_DAG_ID='cricket_data_pipeline' AIRFLOW_CTX_TASK_ID='step2_quality_check_pre' AIRFLOW_CTX_EXECUTION_DATE='2025-05-30T16:30:58.276321+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-30T16:30:58.276321+00:00'
+[2025-05-30T18:31:12.029+0200] {logging_mixin.py:154} INFO - Starting pre-wrangling quality assessment...
+[2025-05-30T18:31:12.051+0200] {logging_mixin.py:154} INFO - Found 18646 JSON files
+[2025-05-30T18:31:12.052+0200] {logging_mixin.py:154} INFO - Sample file structure: {'top_level_keys': ['meta', 'info', 'innings'], 'meta_structure': {'data_version': '1.1.0', 'created': '2022-11-17', 'revision': 1}, 'has_innings': True, 'innings_count': 1, 'first_innings_team': 'Botswana', 'first_innings_overs': 15}
+[2025-05-30T18:31:12.052+0200] {logging_mixin.py:154} INFO - Analyzing 1000 JSON files...
+[2025-05-30T18:31:12.227+0200] {logging_mixin.py:154} INFO - Processed 100/1000 files...
+[2025-05-30T18:31:12.302+0200] {logging_mixin.py:154} INFO - Processed 200/1000 files...
+[2025-05-30T18:31:12.446+0200] {logging_mixin.py:154} INFO - Processed 300/1000 files...
+[2025-05-30T18:31:12.518+0200] {logging_mixin.py:154} INFO - Processed 400/1000 files...
+[2025-05-30T18:31:12.583+0200] {logging_mixin.py:154} INFO - Processed 500/1000 files...
+[2025-05-30T18:31:12.735+0200] {logging_mixin.py:154} INFO - Processed 600/1000 files...
+[2025-05-30T18:31:12.795+0200] {logging_mixin.py:154} INFO - Processed 700/1000 files...
+[2025-05-30T18:31:12.872+0200] {logging_mixin.py:154} INFO - Processed 800/1000 files...
+[2025-05-30T18:31:12.946+0200] {logging_mixin.py:154} INFO - Processed 900/1000 files...
+[2025-05-30T18:31:13.074+0200] {logging_mixin.py:154} INFO - Schema analysis complete:
+[2025-05-30T18:31:13.074+0200] {logging_mixin.py:154} INFO - - Files processed: 1000
+[2025-05-30T18:31:13.074+0200] {logging_mixin.py:154} INFO - - Files with errors: 0
+[2025-05-30T18:31:13.074+0200] {logging_mixin.py:154} INFO - - Top-level schema variations: 1
+[2025-05-30T18:31:13.074+0200] {logging_mixin.py:154} INFO - - Match types found: ['T20', 'Test', 'ODM', 'MDM', 'ODI', 'IT20']
+[2025-05-30T18:31:13.433+0200] {logging_mixin.py:154} INFO - Extracted metadata for 500 matches
+[2025-05-30T18:31:13.442+0200] {logging_mixin.py:154} INFO - Saved metadata to /home/lohit/airflow/data/cricket_match_metadata.csv
+[2025-05-30T18:31:13.895+0200] {logging_mixin.py:154} INFO - Runs distribution analysis complete:
+[2025-05-30T18:31:13.895+0200] {logging_mixin.py:154} INFO - - Most common runs per delivery: [(0, 147617), (1, 66698), (4, 19622), (2, 12723), (6, 3966)]
+[2025-05-30T18:31:13.905+0200] {logging_mixin.py:154} INFO - Quality assessment summary:
+[2025-05-30T18:31:13.906+0200] {logging_mixin.py:154} INFO - - total_files: 18646
+[2025-05-30T18:31:13.906+0200] {logging_mixin.py:154} INFO - - files_processed: 1000
+[2025-05-30T18:31:13.906+0200] {logging_mixin.py:154} INFO - - match_types: 6
+[2025-05-30T18:31:13.906+0200] {logging_mixin.py:154} INFO - - matches_with_data: 500
+[2025-05-30T18:31:13.906+0200] {logging_mixin.py:154} INFO - - matches_with_innings: 500
+[2025-05-30T18:31:13.907+0200] {python.py:194} INFO - Done. Returned value was: Step 2 completed: {'total_files': 18646, 'files_processed': 1000, 'match_types': 6, 'matches_with_data': 500, 'matches_with_innings': 500}
+[2025-05-30T18:31:14.175+0200] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=cricket_data_pipeline, task_id=step2_quality_check_pre, execution_date=20250530T163058, start_date=20250530T163111, end_date=20250530T163114
+[2025-05-30T18:31:14.227+0200] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-05-30T18:31:14.241+0200] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,46 @@
+[2025-06-01T17:52:09.603+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cricket_data_pipeline.step3_unnesting_processing manual__2025-06-01T15:52:01.363835+00:00 [queued]>
+[2025-06-01T17:52:09.607+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cricket_data_pipeline.step3_unnesting_processing manual__2025-06-01T15:52:01.363835+00:00 [queued]>
+[2025-06-01T17:52:09.607+0200] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-06-01T17:52:09.619+0200] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): step3_unnesting_processing> on 2025-06-01 15:52:01.363835+00:00
+[2025-06-01T17:52:09.621+0200] {standard_task_runner.py:57} INFO - Started process 26932 to run task
+[2025-06-01T17:52:09.624+0200] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'cricket_data_pipeline', 'step3_unnesting_processing', 'manual__2025-06-01T15:52:01.363835+00:00', '--job-id', '23', '--raw', '--subdir', 'DAGS_FOLDER/cricket_pipeline_dag.py', '--cfg-path', '/tmp/tmp9zzo6djw']
+[2025-06-01T17:52:09.625+0200] {standard_task_runner.py:85} INFO - Job 23: Subtask step3_unnesting_processing
+[2025-06-01T17:52:09.655+0200] {task_command.py:416} INFO - Running <TaskInstance: cricket_data_pipeline.step3_unnesting_processing manual__2025-06-01T15:52:01.363835+00:00 [running]> on host Ashwa.
+[2025-06-01T17:52:09.697+0200] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lohit' AIRFLOW_CTX_DAG_ID='cricket_data_pipeline' AIRFLOW_CTX_TASK_ID='step3_unnesting_processing' AIRFLOW_CTX_EXECUTION_DATE='2025-06-01T15:52:01.363835+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-06-01T15:52:01.363835+00:00'
+[2025-06-01T17:52:09.805+0200] {logging_mixin.py:154} INFO - Starting data unnesting and database creation...
+[2025-06-01T17:52:09.810+0200] {logging_mixin.py:154} INFO - Processing 4110 JSON files in batches of 500...
+[2025-06-01T17:52:09.810+0200] {logging_mixin.py:154} INFO - Processing batch 1: files 1-500
+[2025-06-01T17:52:10.822+0200] {logging_mixin.py:154} INFO - Batch 1 completed: 500 files processed
+[2025-06-01T17:52:10.840+0200] {logging_mixin.py:154} INFO - Processing batch 2: files 501-1000
+[2025-06-01T17:52:11.903+0200] {logging_mixin.py:154} INFO - Batch 2 completed: 500 files processed
+[2025-06-01T17:52:11.928+0200] {logging_mixin.py:154} INFO - Processing batch 3: files 1001-1500
+[2025-06-01T17:52:12.852+0200] {logging_mixin.py:154} INFO - Batch 3 completed: 500 files processed
+[2025-06-01T17:52:12.878+0200] {logging_mixin.py:154} INFO - Processing batch 4: files 1501-2000
+[2025-06-01T17:52:13.999+0200] {logging_mixin.py:154} INFO - Batch 4 completed: 500 files processed
+[2025-06-01T17:52:14.030+0200] {logging_mixin.py:154} INFO - Processing batch 5: files 2001-2500
+[2025-06-01T17:52:15.103+0200] {logging_mixin.py:154} INFO - Batch 5 completed: 500 files processed
+[2025-06-01T17:52:15.240+0200] {logging_mixin.py:154} INFO - Processing batch 6: files 2501-3000
+[2025-06-01T17:52:16.392+0200] {logging_mixin.py:154} INFO - Batch 6 completed: 500 files processed
+[2025-06-01T17:52:16.426+0200] {logging_mixin.py:154} INFO - Processing batch 7: files 3001-3500
+[2025-06-01T17:52:17.714+0200] {logging_mixin.py:154} INFO - Batch 7 completed: 500 files processed
+[2025-06-01T17:52:17.744+0200] {logging_mixin.py:154} INFO - Processing batch 8: files 3501-4000
+[2025-06-01T17:52:18.829+0200] {logging_mixin.py:154} INFO - Batch 8 completed: 500 files processed
+[2025-06-01T17:52:18.857+0200] {logging_mixin.py:154} INFO - Processing batch 9: files 4001-4110
+[2025-06-01T17:52:19.042+0200] {logging_mixin.py:154} INFO - Batch 9 completed: 110 files processed
+[2025-06-01T17:52:19.051+0200] {logging_mixin.py:154} INFO - Combining all batches...
+[2025-06-01T17:52:19.061+0200] {logging_mixin.py:154} INFO - Combined matches table: 4110 rows
+[2025-06-01T17:52:19.063+0200] {logging_mixin.py:154} INFO - Combined innings table: 8235 rows
+[2025-06-01T17:52:19.067+0200] {logging_mixin.py:154} INFO - Combined overs table: 148895 rows
+[2025-06-01T17:52:19.472+0200] {logging_mixin.py:154} INFO - Combined deliveries table: 929433 rows
+[2025-06-01T17:52:25.541+0200] {logging_mixin.py:154} INFO - Extracted players table: 7059 rows
+[2025-06-01T17:52:25.884+0200] {logging_mixin.py:154} INFO - Created table: matches
+[2025-06-01T17:52:25.926+0200] {logging_mixin.py:154} INFO - Created table: innings
+[2025-06-01T17:52:26.167+0200] {logging_mixin.py:154} INFO - Created table: overs
+[2025-06-01T17:52:29.965+0200] {logging_mixin.py:154} INFO - Created table: deliveries
+[2025-06-01T17:52:31.512+0200] {logging_mixin.py:154} INFO - Created table: players
+[2025-06-01T17:52:31.521+0200] {logging_mixin.py:154} INFO - Successfully created database at /home/lohit/airflow/data/cricket_analytics.db
+[2025-06-01T17:52:31.664+0200] {logging_mixin.py:154} INFO - Database creation completed. Created 0 synthetic player IDs.
+[2025-06-01T17:52:31.666+0200] {python.py:194} INFO - Done. Returned value was: Step 3 completed: Database creation successful
+[2025-06-01T17:52:31.682+0200] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=cricket_data_pipeline, task_id=step3_unnesting_processing, execution_date=20250601T155201, start_date=20250601T155209, end_date=20250601T155231
+[2025-06-01T17:52:31.752+0200] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-06-01T17:52:31.764+0200] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

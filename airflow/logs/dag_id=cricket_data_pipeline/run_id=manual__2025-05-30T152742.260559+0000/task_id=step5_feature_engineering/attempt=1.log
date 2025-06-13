@@ -1,0 +1,13 @@
+[2025-05-30T17:27:50.591+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cricket_data_pipeline.step5_feature_engineering manual__2025-05-30T15:27:42.260559+00:00 [queued]>
+[2025-05-30T17:27:50.597+0200] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cricket_data_pipeline.step5_feature_engineering manual__2025-05-30T15:27:42.260559+00:00 [queued]>
+[2025-05-30T17:27:50.598+0200] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2025-05-30T17:27:50.611+0200] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): step5_feature_engineering> on 2025-05-30 15:27:42.260559+00:00
+[2025-05-30T17:27:50.614+0200] {standard_task_runner.py:57} INFO - Started process 10573 to run task
+[2025-05-30T17:27:50.617+0200] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'cricket_data_pipeline', 'step5_feature_engineering', 'manual__2025-05-30T15:27:42.260559+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/cricket_pipeline_dag.py', '--cfg-path', '/tmp/tmpgm8gox5e']
+[2025-05-30T17:27:50.619+0200] {standard_task_runner.py:85} INFO - Job 12: Subtask step5_feature_engineering
+[2025-05-30T17:27:50.725+0200] {task_command.py:416} INFO - Running <TaskInstance: cricket_data_pipeline.step5_feature_engineering manual__2025-05-30T15:27:42.260559+00:00 [running]> on host Ashwa.
+[2025-05-30T17:27:50.802+0200] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lohit' AIRFLOW_CTX_DAG_ID='cricket_data_pipeline' AIRFLOW_CTX_TASK_ID='step5_feature_engineering' AIRFLOW_CTX_EXECUTION_DATE='2025-05-30T15:27:42.260559+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-30T15:27:42.260559+00:00'
+[2025-05-30T17:27:50.826+0200] {python.py:194} INFO - Done. Returned value was: Step 5 completed successfully
+[2025-05-30T17:27:50.968+0200] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=cricket_data_pipeline, task_id=step5_feature_engineering, execution_date=20250530T152742, start_date=20250530T152750, end_date=20250530T152750
+[2025-05-30T17:27:51.009+0200] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-05-30T17:27:51.017+0200] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check
